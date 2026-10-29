@@ -318,5 +318,5 @@ I used Claude (Anthropic) for guidance throughout, including the PDF extraction 
 
 ## Author
 
-**[Magda Maurice Bebawy]** · [www.linkedin.com/in/magda-maurice-8383523b8] · [magymaurice100@gmail.com]
+**Magda Maurice Bebawy**
 Background: Chinese language, literature and translation; self-taught data analyst.
