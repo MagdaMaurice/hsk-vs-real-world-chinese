@@ -315,8 +315,3 @@ I used Claude (Anthropic) for guidance throughout, including the PDF extraction 
 - BCC corpus word lists: Beijing Language and Culture University (BLCU).
 - HSK vocabulary lists compiled by [MandarinBean](https://mandarinbean.com/new-hsk-vocabulary/) from the HSK 3.0 syllabus.
 - CC-CEDICT, released under a Creative Commons Attribution-ShareAlike license.
-
-## Author
-
-**Magda Maurice Bebawy**
-Background: Chinese language, literature and translation; self-taught data analyst.
